@@ -1,6 +1,6 @@
 # Sustainable Vegetable Farming with Technology Integration
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Sustainable+Vegetable+Farming+with+Technology+Integration) 
+![Project Banner]([https://via.placeholder.com/1200x400?text=Sustainable+Vegetable+Farming+with+Technology+Integration](https://github.com/VEGETEC-Research-Project/Fertilizer_Recommendations/blob/main/1.jpg?raw=true))
 
 ## Project Overview  
 **Research Topic ID**: 24-25J-288  
