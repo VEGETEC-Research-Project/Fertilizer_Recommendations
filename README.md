@@ -58,7 +58,7 @@ This system provides real-time insights, actionable recommendations, and advance
 
 ## Architecture  
 
-![Architecture Diagram]([https://via.placeholder.com/1200x600?text=System+Architecture](https://github.com/VEGETEC-Research-Project/Fertilizer_Recommendations/blob/main/Screenshot%20(30).png?raw=true))  
+![Architecture Diagram](Screenshot(30).png) 
 
 The system combines IoT devices for data collection, a backend for processing, and a mobile app for delivering insights and recommendations. Machine learning models enhance decision-making, while a cloud-based infrastructure ensures scalability and reliability.
 
