@@ -1,6 +1,6 @@
 # Sustainable Vegetable Farming with Technology Integration
 
-<!-- ![Project Banner](https://via.placeholder.com/1200x400?text=Sustainable+Vegetable+Farming+with+Technology+Integration) -->
+![Project Banner](https://via.placeholder.com/1200x400?text=Sustainable+Vegetable+Farming+with+Technology+Integration) 
 
 ## Project Overview  
 **Research Topic ID**: 24-25J-288  
@@ -24,15 +24,15 @@ This system provides real-time insights, actionable recommendations, and advance
 - **Chatbot Support**: AI-powered chatbot for instant farmer assistance.  
 
 ### **Smart Irrigation system **  
-- *Crop Specific Water Management*: Adjusts irrigation schedules based on:  
+- **Crop Specific Water Management**: Adjusts irrigation schedules based on:  
   - Real-time weather condition.  
   - Soil moisture levels.  
   - Crop growth stages.  
-- *Water Optimization*: Increases water efficiency and boosts productivity.
+- **Water Optimization**: Increases water efficiency and boosts productivity.
 
 ### **Vertical Farming**  
 - **Crop Recommendation**: Analyzes sensor data (temperature, K, N, Humidity) to suggest crops best suited to the current environmental conditions. 
- - **Efficient Space Utilization**: Urban areas optimized and suggested Crop count prediction in selected area . 
+- **Efficient Space Utilization**: Urban areas optimized and suggested Crop count prediction in selected area . 
 - **Predictive Analytics**: Data-driven models to estimate crop yield and optimize farming practices.
 ---
 
@@ -58,7 +58,7 @@ This system provides real-time insights, actionable recommendations, and advance
 
 ## Architecture  
 
-![Architecture Diagram](https://via.placeholder.com/1200x600?text=System+Architecture)  
+![Architecture Diagram]([https://via.placeholder.com/1200x600?text=System+Architecture](https://github.com/VEGETEC-Research-Project/Fertilizer_Recommendations/blob/main/Screenshot%20(30).png?raw=true))  
 
 The system combines IoT devices for data collection, a backend for processing, and a mobile app for delivering insights and recommendations. Machine learning models enhance decision-making, while a cloud-based infrastructure ensures scalability and reliability.
 
