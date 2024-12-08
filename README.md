@@ -58,7 +58,7 @@ This system provides real-time insights, actionable recommendations, and advance
 
 ## Architecture  
 
-![Architecture Diagram](Screenshot(30).png) 
+![Architecture Diagram](System_Diagram_new.jpg) 
 
 The system combines IoT devices for data collection, a backend for processing, and a mobile app for delivering insights and recommendations. Machine learning models enhance decision-making, while a cloud-based infrastructure ensures scalability and reliability.
 
