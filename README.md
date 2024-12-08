@@ -1,6 +1,6 @@
 # Sustainable Vegetable Farming with Technology Integration
 
-![Project Banner](1.jpg)
+![Project Banner]([1.jpg](https://github.com/VEGETEC-Research-Project/Fertilizer_Recommendations/blob/main/1.jpg?raw=true ))
 
 ## Project Overview  
 **Research Topic ID**: 24-25J-288  
@@ -58,7 +58,7 @@ This system provides real-time insights, actionable recommendations, and advance
 
 ## Architecture  
 
-![Architecture Diagram](System_Diagram_new.jpg) 
+![Architecture Diagram]([System_Diagram_new.jpg](https://github.com/VEGETEC-Research-Project/Fertilizer_Recommendations/blob/main/System_Diagram_new.jpg?raw=true )) 
 
 The system combines IoT devices for data collection, a backend for processing, and a mobile app for delivering insights and recommendations. Machine learning models enhance decision-making, while a cloud-based infrastructure ensures scalability and reliability.
 
