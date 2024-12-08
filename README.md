@@ -23,7 +23,7 @@ This system provides real-time insights, actionable recommendations, and advance
 - **Preventive Insights**: Provides real-time recommendations for treatment and prevention.  
 - **Chatbot Support**: AI-powered chatbot for instant farmer assistance.  
 
-### **Smart Irrigation system **  
+### **Smart Irrigation system**  
 - **Crop Specific Water Management**: Adjusts irrigation schedules based on:  
   - Real-time weather condition.  
   - Soil moisture levels.  
