@@ -16,7 +16,8 @@ def load_and_prepare_data():
     # Load and preprocess dataset 
     df = pd.read_csv(DATASET_PATH)
     if df['Crop_Type'].dtype == 'object':
-        df = pd.get_dummies(df, columns=['Crop_Type'], drop_first=True)
+        # Updated: Do not drop the first dummy to ensure both crop types (e.g., Tomato and Capsicum) are preserved
+        df = pd.get_dummies(df, columns=['Crop_Type'], drop_first=False)
     return df
 
 def train_model(df):
